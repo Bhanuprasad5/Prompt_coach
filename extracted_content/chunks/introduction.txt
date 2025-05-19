@@ -1,0 +1,58 @@
+A quick-start handbook
+for effective prompts
+
+
+
+
+October 2024 edition
+
+
+
+
+                         1
+Writing effective prompts
+From the very beginning, Google Workspace was built to allow you to collaborate in real time with other people.
+Now, you can also collaborate with AI using Gemini for Google Workspace to help boost your productivity and
+creativity without sacrificing privacy or security. The embedded generative AI-powered features can help you
+write, organize information, create images, accelerate workflows, have richer meetings, and much more, all
+while using your favorite apps like Gmail, Google Docs, Google Drive, Google Sheets, Google Meet, Google
+Slides, and Gemini Advanced (the standalone chat experience available at gemini.google.com with enterprise-
+grade security). Gemini is accessible right where you are doing your work — with access to your personal
+knowledge base in Drive, Docs, Gmail, and more — so you can enhance and create powerful workflows across
+the Workspace apps with less tab switching and interruption.
+
+
+This guide provides you with the foundational skills to write effective prompts when using Gemini for Workspace.
+You can think of a prompt as a conversation starter with your AI-powered assistant. You might write several
+prompts as the conversation progresses. While the possibilities are virtually endless, you can put consistent
+best practices to work today.
+
+
+The four main areas to consider when writing an effective prompt are:
+• Persona
+• Task
+• Context
+• Format
+
+
+Here is an example of a prompt using all four areas that could work well in Gmail and Google Docs:
+
+
+      You are a program manager in [industry]. Draft an executive summary email to [persona] based on [details
+      about relevant program docs]. Limit to bullet points.
+
+
+You don’t need to use all four in every prompt, but using a few will help! Always remember to include a verb or
+command as part of your task; this is the most important component of a prompt.
+
+
+
+
+     Contact sales to get started with
+     Gemini for Workspace today.
+
+
+
+
+                                                                                                                  2
+Here are quick tips to get you started with Gemini for Google Workspace:

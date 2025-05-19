@@ -1,0 +1,5 @@
+3. Be concise and avoid complexity. State your request in brief — but specific — language. Avoid jargon.
+
+4. Make it a conversation. Fine-tune your prompts if the results don’t meet your expectations or if you believe
+   there’s room for improvement. Use follow-up prompts and an iterative process of review and refinement to
+   yield better results.
