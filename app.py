@@ -10,7 +10,7 @@ from rag_pipeline import PromptCoachRAG
 def load_rag_pipeline():
     # Get API key from environment variable or use None for demo mode
     api_key = os.environ.get("OPENAI_API_KEY", "")
-    return PromptCoachRAG("embeddings\chunk_embeddings.json", api_key=api_key)
+    return PromptCoachRAG("embeddings/chunk_embeddings.json", api_key=api_key)
 
 # Set up the Streamlit app
 st.set_page_config(
